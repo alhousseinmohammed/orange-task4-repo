@@ -1,0 +1,56 @@
+
+.green {
+    background-color: green;
+    height: 400px;
+}
+    
+.yellow {
+    background-color: yellow;
+}
+
+ /* #_1 {
+    height: 90%;
+    width: 90%;
+}
+#_2 {
+    height: 90%;  
+    width:  90%;
+}
+#_3 {
+    height: 90%;
+    width:  90%;
+}
+#_4 {
+    height: 90%;
+    width: 90%;
+}
+#_5 {
+    height: 90%;
+    width:  90%;
+} */
+#_5, #_4, #_3, #_2, #_1, p{
+    height: 94%;
+    width: 94%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+p {
+    width:fit-content;
+    height:fit-content;
+    color: white;
+    font-size:xx-large;
+    color: darkgreen;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 72px;
+    letter-spacing: 2px;
+}
+
+
+
+

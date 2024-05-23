@@ -1,0 +1,9 @@
+span {
+  border: solid 0.5px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px;
+}
+
+div {
+  margin: 10px;
+}

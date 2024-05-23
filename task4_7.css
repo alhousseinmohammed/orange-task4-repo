@@ -1,0 +1,27 @@
+nav {
+  background-color: green;
+  color: white;
+}
+
+.action {
+  position: relative;
+  color: yellow;
+  background-color: blue;
+  max-width: 100px;
+}
+
+.list {
+  position: static;
+  left: 0;
+  max-width: 100px;
+
+  padding: 4px;
+  list-style: none;
+  background-color: red;
+}
+
+span {
+  padding-left: 10px;
+  text-align: center;
+  background-color: pink;
+}

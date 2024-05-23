@@ -1,0 +1,32 @@
+body {
+  background-color: #acd4d3;
+}
+
+label {
+  display: inline;
+}
+div,
+h1 {
+  margin: auto;
+
+  width: fit-content;
+}
+.back {
+  width: 70%;
+  height: 70%;
+  background-color: white;
+}
+
+/* .back div * {
+  margin: auto;
+} */
+
+.back div input {
+  position: absolute;
+  left: 50%;
+}
+
+.back div label {
+  position: absolute;
+  left: 0;
+}
